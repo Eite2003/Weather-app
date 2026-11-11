@@ -6,7 +6,7 @@ A responsive weather forecast web app that shows the current weather and a 4-day
 
 | Home | Search: Chittagong | Search: Bandarban |
 |------|--------------------|-------------------|
-| ![Home](screenshots/home.jpeg) | ![Chittagong](screenshots/chittagong.jpeg) | ![Bandarban](screenshots/bandarban.jpeg) |
+| ![Home](home.jpeg) | ![Chittagong](chittagong.jpeg) | ![Bandarban](bandarban.jpeg) |
 
 ## ✨ Features
 
